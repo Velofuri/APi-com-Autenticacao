@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ippehuui",
+    "password": "a-swm9zkf1s7UqknKC3g9XdpmagDr6jj",
+    "database": "ippehuui",
+    "host": "motty.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ippehuui",
+    "password": "a-swm9zkf1s7UqknKC3g9XdpmagDr6jj",
+    "database": "ippehuui",
+    "host": "motty.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ippehuui",
+    "password": "a-swm9zkf1s7UqknKC3g9XdpmagDr6jj",
+    "database": "ippehuui",
+    "host": "motty.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
