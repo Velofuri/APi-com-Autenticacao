@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "ippehuui",
-    "password": "a-swm9zkf1s7UqknKC3g9XdpmagDr6jj",
-    "database": "ippehuui",
-    "host": "motty.db.elephantsql.com",
+    "username": "postgres",
+    "password": "123456",
+    "database": "seguranca_nodejs_development",
+    "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "ippehuui",
-    "password": "a-swm9zkf1s7UqknKC3g9XdpmagDr6jj",
-    "database": "ippehuui",
-    "host": "motty.db.elephantsql.com",
+    "username": "postgres",
+    "password": "123456",
+    "database": "seguranca_nodejs_test",
+    "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "ippehuui",
-    "password": "a-swm9zkf1s7UqknKC3g9XdpmagDr6jj",
-    "database": "ippehuui",
-    "host": "motty.db.elephantsql.com",
+    "username": "postgres",
+    "password": "123456",
+    "database": "seguranca_nodejs_production",
+    "host": "127.0.0.1",
     "dialect": "postgres"
   }
 }
